@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gate of the Reach, Fear Under The Mountain!</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Gate of the Reach, Fear Under The Mountain!</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jul 2024 14:11:36 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Narrinesh the Monk</title>
+      <link>http://localhost:1313/posts/narrinesh-the-monk/</link>
+      <pubDate>Thu, 18 Jul 2024 14:11:36 -0400</pubDate>
+      <guid>http://localhost:1313/posts/narrinesh-the-monk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Luth Amastacia</title>
+      <link>http://localhost:1313/posts/luth-amastacia/</link>
+      <pubDate>Thu, 18 Jul 2024 14:11:23 -0400</pubDate>
+      <guid>http://localhost:1313/posts/luth-amastacia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stuu the Dwarf</title>
+      <link>http://localhost:1313/posts/stuu-the-dwarf/</link>
+      <pubDate>Thu, 18 Jul 2024 14:11:12 -0400</pubDate>
+      <guid>http://localhost:1313/posts/stuu-the-dwarf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nirvana Knives</title>
+      <link>http://localhost:1313/posts/nirvana-knives/</link>
+      <pubDate>Thu, 18 Jul 2024 14:10:42 -0400</pubDate>
+      <guid>http://localhost:1313/posts/nirvana-knives/</guid>
+      <description>Introduction In the year 1400, Nirvana Knives, a Tiefling Soul Knife rogue, was one of the heroes of legend that foiled the Necromancer&amp;rsquo;s plans in the Gate of the Reach fortress under the mountain. She led the four adventurers on a conquest that would span through reality itself.</description>
+    </item>
+  </channel>
+</rss>
