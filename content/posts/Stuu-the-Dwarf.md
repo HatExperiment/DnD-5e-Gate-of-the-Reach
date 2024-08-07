@@ -8,14 +8,14 @@ date = 2024-07-18T14:11:12-04:00
 
 ## Introduction
 
-In year 1400 DR, **Stuu the Dwarf**, a cook of the highest order who others called an Oath of Ancients Paladin, was one of the four heroes of legend to foil the Necromancer's plans in the Gate of the Reach fortress under the mountain. 
+In year 1400 DR, **Stuu the Dwarf**, a cook of the highest order who others called an Oath of Ancients Paladin, was one of the four heroes of legend (with Narrinesh, [Nirvana Knives](https://gotr2024.netlify.app/posts/nirvana-knives/), and Luth Amastacia) to foil the Necromancer's plans in the Gate of the Reach fortress under the mountain. 
 A loyal ally and frightening enemy, Stuu traveled the land over with a good hat on his head and a firm stout in his belly.
 Called upon by his ancestors to make an Oath, Stuu baked a bread loaf and thusly he entered the Paladin order. 
 
 #### Appearance
 
 Stuu the Dwarf is bulky and grubby, with dirt-covered pale skin, a long brown beard, and an old wide-brimmed hat bristling with herbs and vials of oil.
-Stuu's is perpetually dirty on account of his scrounging for cooking ingredients wherever he goes. Stuu is often found accompanied by a pet canary on his hat, Flobby, and his pet velociraptor Psydu at his heel snapping up cat livers from a rotten bag. Stuu carries a meat tenderizer as a hammer 
+Stuu is perpetually dirty on account of his scrounging for cooking ingredients wherever he goes. Stuu is often found accompanied by a pet canary on his hat, Flobby, and his pet velociraptor Psydu at his heel snapping up cat livers from a rotten bag. Stuu carries a meat tenderizer as a hammer 
 and a pot lid that he uses as a shield, but he also cooks his stew in the lid over the fire. Stuu always travels drinking out of a mug, and being a heavy drinker, he can often be found pouring his next mug of ale in a tavern or scouring hundred-year-old barrels in dungeons for alcohol refills.
 
 ![StuuSheet1](/ST1.png)
@@ -34,8 +34,8 @@ Stuu and Narrinesh tore off Norm's head from its body, ending the life of Norm. 
 > *"Where there was once a hole in the wall, you can now see a flowing river of water flowing down the broken bricks. Walking into the room, you find a space completed transformed: what was once covered with ice and snow is now a glimmering and gleaming circular room approaximately 500 feet from one side of the room to the other. In the center of the room, 8 chairs sit in a semi-circle facing you - plush velvet seats. Shriveled and frozen corpses lie in four of the chairs, more leather than bone with their exposed skulls gleaming."* (Session 14)
 
 - Stuu took care of the mountain and made sure to see it became a good home. As the Torch of the Reach artifact was slowly made complete with each of the four bars plugged in, and the spirits began to flow into the central stone and out of the Gate of the Reach Stronghold,
-the mountain began to shine brightly and beautiful again as if it were brand new. It was only on Stuu's insistence that the soldiers began to clean the Gate of the Reach up and make it a good home. 
-Because of Stuu's actions, this mountain may yet be a home for a thriving civilization, now that the dracolich is no longer at risk of resurrection. **Heroic Deed**
+the mountain began to shine brightly and beautifully again as if it were brand new. It was only on Stuu's insistence that the soldiers began to clean the Gate of the Reach up and make it a good home. 
+Because of Stuu's actions, this mountain may yet be a home for a thriving civilization, now that the dracolich is no longer at risk of resurrection. **Good Deed**
 > *"As you step into the Antechamber of the Vilhon Reach Stronghold, you are greeted with glimmering, spotless floors, proud parapets that gleam, and stately palace stables on either side of you fit of housing the horses of the richest kings. As you travel forward, your heart doesn't feel burdened as it did before."* (Session 16)
 
 - In a ritual process that would put all of his cooking skills to the test, Stuu made a 
@@ -57,9 +57,9 @@ Stuu lived up to the highest expectations of his ancestors, and to his greatest 
 
 - By Act 2, Stuu was feeling conflicted. He was a lone wanderer before he came to these mountains, and now he was bound to the mountain and to these adventurers. It was only ancient voices in his head that brought him here. At this point, there came a righteous undertone to his personality. He felt there would be dire consequences if he abandoned his friends and the soldiers of Yargongone locked away in the mountain. In truth, if asked what was on his mind, Stuu would say that he felt he didn't really understand what was happening at all. **Neutral Deed**
 
-- In the middle of an ancient dwarven library deep underground, through expert Stonecunning, Stuu discovered and identified the very core, the central pillar, of the Akanapeak.
+- In the middle of an ancient dwarven library deep underground, through expert Stonecunning, Stuu discovered and identified the very core, the central pillar, of the Vilhon Reach Peak.
 This core would lead all the way down to the bottom of the mountain, where the Heart of the Mountain would likely be found.
-The chamber of the Heart of the Mountain would be made into a prison for Akulu the Vile, and the Heart of the Mountain would later be known, and corrupted, as the Unity Stone. **Good Deed**
+The chamber of the Heart of the Mountain had been made into a prison for Akulu the Vile, and the Heart of the Mountain had been known as the Corrupted Unity Stone. **Good Deed**
 
 > *"In the fading moonlight, you see a small stone cabin on top of a mountain peak. Through the open front door, cold and bleak, beyond a snow-covered curtain draped across the way, you see the curled and burned form of a pitiful cultist - long slain. Though his body is blackened from latent destructive energy, the moon shines through a hole in the top of the mountain peak, gently illuminating a gritted skeletal smile."* (Session 38)
 
@@ -78,12 +78,12 @@ his Loaf as a Paladin and the destiny of his clan.  **Heroic Deed**
 
 - Stuu correctly answered the response to Henisara's memory, freeing her from her eternal torment, by responding to her question,
 "How will I know you'll return? What will you give me as a promise?", by saying, "This Rose Dagger." As one last favor
- for being so mercifully, released, Henisara allowed Stuu with one wish: "Is Gordof still alive, and does he remember me?" This wish was answered by Fineghal Stormwalker. **Good Deed**
+ for being so mercifully released, Henisara allowed Stuu with one wish: "Is Gordof still alive, and does he remember me?" This wish was answered by Fineghal Stormwalker. **Good Deed**
 > *"Your path to Gordof lies within the arcane city of Cimber. You may find the answers you seek there: on Gordof, on your friends, and perhaps even on the fate of your homeland." Fineghal Stormwalker* (Session 70)
 
 #### Act 3
-- Stuu discovered that his muscles were being shrunk from within by the Necromancer's curse, and the increased strength he felt every time he left the mountain was a ruse,
-and the fungal colony beneath the marsh offered to heal the muscles. Instead, Stuu decided to permenantly
+- Stuu discovered that his muscles were being shrunk from within by the Necromancer's curse, and the increased strength he felt every time he left the mountain was a ruse.
+When the fungal colony beneath the marsh offered to heal the muscles, instead, Stuu decided to permenantly
  empower his body with fungal spores. In doing so, he became partially fungal within his dwarven muscles. **Neutral Deed**
  
  - In the fight against Aeron Morieth, Stuu landed the killing blow with a mighty swing at Aeron's head and rude words. **Good Deed**
@@ -125,5 +125,5 @@ That moment, with a knock on the door, Beth Stoneaxe had tracked Stuu to that mo
 ...
 ## **TO BE CONTINUED**
 
-Click [here](https://gotr2024.netlify.app/posts/nirvana-knives/) to navigate to Nirvana Knives' page!
+Click  to navigate to Nirvana Knives' page!
 

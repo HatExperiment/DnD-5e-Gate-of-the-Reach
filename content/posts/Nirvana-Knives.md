@@ -7,7 +7,7 @@ date = 2024-07-18T14:10:42-04:00
 
 
 ## Introduction
-In year 1400 DR, **Nirvana Knives**, a Tiefling Soul Knife Rogue, was one of the four heroes of legend that foiled the Necromancer's plans in the Gate of the Reach fortress under the mountain. At once a self-determined rogue and calculating leader, Nirvana would stop at nothing to achieve her own desires, believing the ends always justify the means. She relentlessly pursued this path, at times, against the wishes of her own friends and companions to see her greater vision achieved.
+In year 1400 DR, **Nirvana Knives**, a Tiefling Soul Knife Rogue, was one of the four heroes of legend (with Narrinesh, [Stuu](https://gotr2024.netlify.app/posts/stuu-the-dwarf/), and Luth Amastacia) who foiled the Necromancer's plans in the Gate of the Reach fortress under the mountain. At once a self-determined rogue and calculating leader, Nirvana would stop at nothing to achieve her own desires, believing the ends always justify the means. She relentlessly pursued this path, at times, against the wishes of her own friends and companions to see her greater vision achieved.
 
 #### Appearance
 
@@ -94,6 +94,6 @@ Nirvana Knives traveled with Luth for a time on the humble dirt path out of Yarg
 ...
 
 ## **TO BE CONTINUED**
-
+Click  to navigate to Stuu's page!
 <img src= "static/images/NKPg1.png" target="_blank" rel="noopener"/>
 <img src= "/static/images/NKPg2.png" target="_blank" rel="noopener"/>
