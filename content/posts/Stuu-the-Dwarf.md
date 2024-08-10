@@ -24,14 +24,14 @@ and a pot lid that he uses as a shield, but he also cooks his stew in the lid ov
 ## Deeds
 
 #### Act 1
-- When touseling with Norm the diamond-encrusted animated armor guarding the Circle Hallway which connects the outside of the mountain kingdom,
+- When tousling with Norm the diamond-encrusted animated armor guarding the Circle Hallway which connects the outside of the mountain kingdom,
 Stuu and Narrinesh tore off Norm's head from its body, ending the life of Norm.  **Neutral Deed** 
-> *The Obituary of Norman, the Animated Suit of Armor: "Norman, or Norm as he was called by friends, died today. He was created by the chief architect of the Gate of the Reach kingdom, and encrusted with gems and jewels which would disintigrate upon his destruction. Although he once had many jobs, especially carrying around glass mosaics to be placed into the mountain in a secret teleportation network, after the death of his master he only had one job: to protect the Gate of the Reach from invaders. When the undead slaughtered all the residents, he failed his job, but never gave up his mission. Norm was named after Norm Monik, who was a famous folk hero from the Darkhook Square District of the Kingdom of Ythenia before its destruction. Norm had a brother, an unfinished, equally lavishly adorned suit of armor, which was positioned waiting to be animated within the architect's office at the bottom of the mountain, where it held a glass mosaic with an iron grip. Norm was a good suit of armor who enjoyed making haikus. His head would be used as a bludgeoning weapon by Stuu the dwarf in months to come." Engraved at the bottom of the headstone: "1+1  |  1+1+1  |  1+1"* (Session 5)
+> *The Obituary of Norman, the Animated Suit of Armor: "Norman, or Norm as he was called by friends, died today. He was created by the chief architect of the Gate of the Reach kingdom, and encrusted with gems and jewels which would disintegrate upon his destruction. Although he once had many jobs, especially carrying around glass mosaics to be placed into the mountain in a secret teleportation network, after the death of his master he only had one job: to protect the Gate of the Reach from invaders. When the undead slaughtered all the residents, he failed his job, but never gave up his mission. Norm was named after Norm Monik, who was a famous folk hero from the Darkhook Square District of the Kingdom of Ythenia before its destruction. Norm had a brother, an unfinished, equally lavishly adorned suit of armor, which was positioned waiting to be animated within the architect's office at the bottom of the mountain, where it held a glass mosaic with an iron grip. Norm was a good suit of armor who enjoyed making haikus. His head would be used as a bludgeoning weapon by Stuu the dwarf in months to come." Engraved at the bottom of the headstone: "1+1  |  1+1+1  |  1+1"* (Session 5)
 
 - Stuu fashioned breathing tubes out of reeds to escape the undead in the Akanamere marsh. He coined this innovation, "Sneeds Snoods." **Neutral Deed** 
 
 - In the Frozen Retreat, when the thrones placed in a circle around the room were covered in snow, Stuu cleverly used his Divine Sniff to discover that there were zombies positioned beneath the snow in half of the chairs. **Good Deed**
-> *"Where there was once a hole in the wall, you can now see a flowing river of water flowing down the broken bricks. Walking into the room, you find a space completed transformed: what was once covered with ice and snow is now a glimmering and gleaming circular room approaximately 500 feet from one side of the room to the other. In the center of the room, 8 chairs sit in a semi-circle facing you - plush velvet seats. Shriveled and frozen corpses lie in four of the chairs, more leather than bone with their exposed skulls gleaming."* (Session 14)
+> *"Where there was once a hole in the wall, you can now see a flowing river of water flowing down the broken bricks. Walking into the room, you find a space completed transformed: what was once covered with ice and snow is now a glimmering and gleaming circular room approximately 500 feet from one side of the room to the other. In the center of the room, 8 chairs sit in a semi-circle facing you - plush velvet seats. Shriveled and frozen corpses lie in four of the chairs, more leather than bone with their exposed skulls gleaming."* (Session 14)
 
 - Stuu took care of the mountain and made sure to see it became a good home. As the Torch of the Reach artifact was slowly made complete with each of the four bars plugged in, and the spirits began to flow into the central stone and out of the Gate of the Reach Stronghold,
 the mountain began to shine brightly and beautifully again as if it were brand new. It was only on Stuu's insistence that the soldiers began to clean the Gate of the Reach up and make it a good home. 
@@ -45,7 +45,7 @@ to form the dough into submission, a Wisdom check to have the patience to put th
 and a Constitution check to withstand the heat of the flames in the snake skull oven, a channel of newfound energy surged into Stuu through the loaf,
 and with hard work and perseverance he successfully stepped into the ranks of Paladins of legend. In doing so,
 Stuu lived up to the highest expectations of his ancestors, and to his greatest potential. **Heroic Deed**
-> *"The Oven glows with a red hot ember, the same color as metal being stamped under the flame. In your head, you hear one final phrase eminate from the book behind you, so loudly that you are sure it must be heard by everyone around you - KING OLGAR HYTHRAIN: "THE OATH IS MADE!"* (Session 18)
+> *"The Oven glows with a red hot ember, the same color as metal being stamped under the flame. In your head, you hear one final phrase emanate from the book behind you, so loudly that you are sure it must be heard by everyone around you - KING OLGAR HYTHRAIN: "THE OATH IS MADE!"* (Session 18)
 
 - Stuu was chosen by Flobby, a lone orange mine canary who had been stranded within the mountain for untold years. **Neutral Deed**
 
@@ -76,14 +76,14 @@ of his days, he swung his warhammer at the dwarven forms, dispatching the spirit
  Such a display of mastery over the Grime was nothing short of heroic. He fulfilled
 his Loaf as a Paladin and the destiny of his clan.  **Heroic Deed**
 
-- Stuu correctly answered the response to Henisara's memory, freeing her from her eternal torment, by responding to her question,
+- Stuu gave the correct response to Henisara's memory, freeing her from her eternal torment, by responding to her question,
 "How will I know you'll return? What will you give me as a promise?", by saying, "This Rose Dagger." As one last favor
  for being so mercifully released, Henisara allowed Stuu with one wish: "Is Gordof still alive, and does he remember me?" This wish was answered by Fineghal Stormwalker. **Good Deed**
 > *"Your path to Gordof lies within the arcane city of Cimber. You may find the answers you seek there: on Gordof, on your friends, and perhaps even on the fate of your homeland." Fineghal Stormwalker* (Session 70)
 
 #### Act 3
 - Stuu discovered that his muscles were being shrunk from within by the Necromancer's curse, and the increased strength he felt every time he left the mountain was a ruse.
-When the fungal colony beneath the marsh offered to heal the muscles, instead, Stuu decided to permenantly
+When the fungal colony beneath the marsh offered to heal the muscles, instead, Stuu decided to permanently
  empower his body with fungal spores. In doing so, he became partially fungal within his dwarven muscles. **Neutral Deed**
  
  - In the fight against Aeron Morieth, Stuu landed the killing blow with a mighty swing at Aeron's head and rude words. **Good Deed**
@@ -93,9 +93,9 @@ When the fungal colony beneath the marsh offered to heal the muscles, instead, S
  and gain all the power that Aeron Morieth had as the Necromancer. In exchange for controlling the stone and preventing it from
  falling into the wrong hands, she would become corrupted and evil from that point forward. Stuu played an instrumental role in convincing
  Nirvana Knives not to take this path, and instead disconnect the Corrupted Unity Stone from the Torch of the Reach. Later then, the adventurers
- could find a way to remove the hundreds of thousands of souls from mthe stone. The Party of Four successfully ended the enchantment,
+ could find a way to remove the hundreds of thousands of souls from the stone. The Party of Four successfully ended the enchantment,
  stealing the Corrupted Unity Stone, the Necromancer's critical source of power, from the Necromancer. Unfortunately, the players now had to
- find a way to remove the souls from the stone... and Aeron Morieth would never rest, would send all of his servents, assassins, and monsters
+ find a way to remove the souls from the stone... and Aeron Morieth would never rest, would send all of his servants, assassins, and monsters
  out into the world, until he regained control of the stone for himself once again. **Heroic Deed**
  
  
@@ -108,22 +108,19 @@ When the fungal colony beneath the marsh offered to heal the muscles, instead, S
 
 3) The Fate of the Soldiers of Yargongone was poor. Many soldiers died in the battle. Both Holden and Ishmir were slain, overwhelmed by the ghouls that they fought against. The remnants of the troops remained loyal to Nirvana Knives after the fighting was done.
 
-4) The spellcaster refugees of the reach did well in the face of the overwhelming odds of the Purge of Ire. While Briff and his school were slain to make way for reinforcements, the Spellweavers Rebellion grew and gained many members. They would grow into a sizable movement.
+4) The spellcaster refugees of the reach did well in the face of the overwhelming odds of the Purge of Ire. While the Whispering Serpents with Nirvana Knives traded the life of Briff and his school for reinforcements, the Spellweavers Rebellion grew and gained many members. They would grow into a sizable movement.
 
-5) The Original Expedition: Banger, Harolda, Theresa, and Beth, faired well in the battle. Over the long-term, the players were able to please all four of them by completing their quests.  They were grateful for Stuu's leadership and remained faithful throughout the final battle for the Reach.
+5) The Original Expedition: Banger, Harolda, Theresa, and Beth, fared well in the battle. Over the long-term, the players were able to please all four of them by completing their building construction side-objective quests.  They were grateful for Stuu's leadership and remained faithful throughout the final battle for the Reach.
 
 6) Of the 5th Detachment of the 2nd Coming of the Silver Flame, nothing remained. The soldiers, fractured and divided as an army between Nirvana Knives and the High Marshall, were slain ruthlessly and utterly. Their bodies littered the forest floor like many scattered leaves.
 
 7) The Holy Kingdom of Arrabar would rule for many years to come.
 
 Stuu entrusted Luth with the Corrupted Unity Stone, and having left Nirvana Knives with the fate of Yargongone, traveled to far away lands with Narrinesh for a long time, gambling and drinking his new-found wealth away. His travels would eventually take him away from Narrinesh, far from friends or kin,
-back to his desolate mountain home of Guiandum, where he lost hope and despaired alone in a mountain hovel, not even cooking anymore. One day, many years later, King Olgar Hythrain came to Stuu in the depths of his despair and renewed his purpose, reminding him how he had stayed true to his Loaf, and how descendants of King Olgar Hythrain were never alone.
-That moment, with a knock on the door, Beth Stoneaxe had tracked Stuu to that mountain hovel, where they had a joyous reunion... As for the unfinished business with Corrupted Unity Stone? If his friends ever called, he'd be ready to pick up his trusty hat, his pot lid, and his orange canary to cook up another adventure.
+back to his desolate mountain home of Guiandum, where he lost hope and despaired alone in a mountain hovel not even cooking anymore. One day, many years later, King Olgar Hythrain came to Stuu in the depths of his despair and renewed his purpose, reminding him how he had stayed true to his Loaf, and how descendants of King Olgar Hythrain were never alone.
+That moment, with a knock on the door, Beth Stoneaxe tracked Stuu to that mountain hovel, where they had a joyous reunion... As for the unfinished business with Corrupted Unity Stone? If his friends ever called, he'd be ready to pick up his trusty hat, his pot lid, and his orange canary to cook up another adventure.
 
 ...
 ...
 ...
 ## **TO BE CONTINUED**
-
-Click  to navigate to Nirvana Knives' page!
-
