@@ -107,7 +107,7 @@ When the fungal colony beneath the marsh offered to heal the muscles, Narrinesh 
 
 Narrinesh's road was a long one, yet it was far from done. The end of the Gate of the Reach Adventure still found Narrinesh seeking his sister. Narrinesh decided to set out onto the road with Stuu. The two of them, inseparable, traveled through hills and
 vales, drinking their way through all the inns in the bustling major port cities, and through the secluded hamlets with single taverns nestled deep in forests. They gambled and spent their new-found wealth away. Sometimes, after a few drinks, they could be convinced to tell the tale of the Gate of the Reach, no one ever believed them. It was in a small desert hamlet, where Narrinesh had stayed for an unusually long time with Stuu,
-that his sister Satina appeared out of the desert. She claimed that her footsteps had been guided by a red dragon in her dreams. Leaving Stuu to his path, Narrinesh set off with his sister to reclaim the abandoned smithy that they were 
+that his twin sister Sorva appeared out of the desert. She claimed that her footsteps had been guided by a red dragon in her dreams. Leaving Stuu to his path, Narrinesh set off with his sister to reclaim the abandoned smithy that they were 
 raised in, before monks, dragons, and evil necromancers - in his heart, Narrinesh knew he had finally found a life of peace for himself at last. As for the Corrupted Unity Stone? Should his friends come knocking at his door, perhaps once more, he would
 set out with a pack on his back, to climb one more mountain, hop one more zipline, partake in one more adventure. He already had a lifetime of adventure, and he could be convinced to take another!
 
