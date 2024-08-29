@@ -7,7 +7,7 @@ date = 2024-07-18T14:10:42-04:00
 
 
 ## Introduction
-In year 1400 DR, **Nirvana Knives**, a Tiefling Soul Knife Rogue, was one of the four heroes of legend (with Narrinesh, [Stuu](https://gotr2024.netlify.app/posts/stuu-the-dwarf/), and Luth Amastacia) who foiled the Necromancer's plans in the Gate of the Reach fortress under the mountain. At once a self-determined rogue and calculating leader, Nirvana would stop at nothing to achieve her own desires, believing the ends always justify the means. She relentlessly pursued this path, at times, against the wishes of her own friends and companions to see her greater vision achieved.
+In year 1400 DR, **Nirvana Knives**, a Tiefling Soul Knife Rogue, was one of the four heroes of legend (with [Narrinesh](https://gotr2024.netlify.app/posts/narrinesh-the-monk/), [Stuu the Dwarf](https://gotr2024.netlify.app/posts/stuu-the-dwarf/), and Luth Amastacia) who foiled the Necromancer's plans in the Gate of the Reach fortress under the mountain. At once a self-determined rogue and calculating leader, Nirvana would stop at nothing to achieve her own desires, believing the ends always justify the means. She relentlessly pursued this path, at times, against the wishes of her own friends and companions to see her greater vision achieved.
 
 #### Appearance
 
@@ -30,7 +30,7 @@ Fortunately, or unfortunately, when Arrabar engaged their spy network to determi
 
 - Nirvana Knives proclaimed herself "The Honest" when challenged by Feroi, the Elven Warrior. **Neutral Deed**
 
-- Negotiating with Tellia in the Chondalwood, Nirvana Knives secured reinforcements by reaching a deal whereby the terrorist elvish guerilla group residing there would feast upon Briff's spellcaster group and eventually be allowed to take new territory within the Akanamere Marsh. In return, the Whispering Serpents would inform the crown that the spellcasters were slain, the roads were safe, and that reinforcements could immediately be sent. In return, however, the Whispering Serpents would exact a price by embedding their people within the reinforcements. As a consequence, the magic refugees of the land lost a safe haven and Master Illusionist Briff died. <span style="color: red;">**Evil Deed**</span>
+- Negotiating with Tellia in the Chondalwood, Nirvana Knives secured reinforcements by reaching a deal whereby the terrorist elvish guerilla group residing there, the Eldreth Veluuthra, would feast upon Briff's spellcaster group and eventually be allowed to take new territory within the Akanamere Marsh. In return, the Whispering Serpents would inform the crown that the spellcasters were slain, the roads were safe, and that reinforcements could immediately be sent. In return, however, the Whispering Serpents would exact a price by embedding their people within the reinforcements. As a consequence, the magic refugees of the land lost a safe haven and Master Illusionist Briff died. <span style="color: red;">**Evil Deed**</span>
 
 #### Act 2
 - By Act 2, Nirvana Knives had taken responsibility for the soldiers of Arrabar, their disappearances, and the survivors in the mountain.
@@ -62,7 +62,7 @@ from Arrabar in their place: that is, beneath her. **Heroic Deed**
 > *"It is late evening in the Vilhon Reach, as the sun sits on the horizon casting dim shadows into the military garrison of Yargongone. The camp seems to transform around you in an instant. Gone is the quiet hamlet with two-dozen soldiers and a few familiar faces. Risen up from the earth is a smokey, dimly lit military camp. Soldiers laugh, grunt, and bellow in loud voices from every direction. Scaffolds are raised, buildings constructed. Tents go up in every direction, a maze through which bodies traverse new paths. Not only soldiers; craftsmen now build their homes from scratch, residents of Yargongone. Where there was once a group of surviving 30 soldiers, there is now a force 400 strong."* (Session 62)
 
 - Nirvana Knives received a personal message from Fineghal Stormwalker.
-> *"Your blessing lies not just in your dagger. It also lies in the new-found leadership you have discovered with your companions. Keep your new friends well, and soon, you shall find your way to command legions of men."* (Session 70)
+> *"Your blessing lies not just in your dagger. It also lies in the new-found leadership you have discovered with your companions. Keep your new friends well, and soon, you shall find your way to command legions of men." Fineghal Stormwalker* (Session 70)
 
 - History was set to repeat itself. The undead dragon was ready to awaken, the forces of Arrabar were ready to enter the mountain to rescue Yargon, and the undead were ready to attack and trap them on both sides. To counter such an eventuality, before entering the mountain for the last time, Nirvana Knives conspired with the Whispering Serpents to use the siege weapon the reinforcements brought to collapse the Gate of the Reach for good. Such as it was, that day, disaster was averted at the cost of the mighty wooden gates which were torn asunder. **Good Deed**
 > *" I recommend that you all look out for each other. Dark machinations seem to be in motion, not just under the Reach, but within Yargongone itself. I wouldn't put it beneath the Marshall to attempt to detain those who do not follow his ... ambitions." Nirvana Knives to Banger* (Session 71)
@@ -71,7 +71,7 @@ from Arrabar in their place: that is, beneath her. **Heroic Deed**
 
 ## Aftermath
 
-1) The Resurrection Mechanism within the Corrupted Unity Stone was prematurely activated, before all four pieces of the Torch of the Reach were plugged in. Without all of the pieces in place, Akulu would never be able to resurrect. The spell miscast, causing an eruption of souls to build into a volcano and carry the players out of the top of the mountain. The bones of Akulu the Vile were destroyed completely by the corrosive acid of the soul residue, which does not damage the living, only that which is dead.
+1) The Resurrection Mechanism within the Corrupted Unity Stone was prematurely activated before all four pieces of the Torch of the Reach were plugged in. Without all of the pieces in place, Akulu would never be able to resurrect. The spell miscast, causing an eruption of souls to build into a volcano and carry the players out of the top of the mountain. The bones of Akulu the Vile were destroyed completely by the corrosive acid of the soul residue, which does not damage the living, only that which is dead.
 
 2) In his quest to recapture the stone, the Necromancer Aeron Morieth will hunt Nirvana Knives down until he has his revenge, sending undead assassins and agents to seek her out. She will never feel safe while Aeron Morieth is alive.
 
@@ -81,7 +81,7 @@ from Arrabar in their place: that is, beneath her. **Heroic Deed**
 
 5) The Original Expedition: Banger, Harolda, Theresa, and Beth, fared well in the battle. Over the long-term, the players were able to please all four of them by completing their building construction side-objective quests.  They were grateful for Nirvana's leadership and remained faithful throughout the final battle for the Reach.
 
-6) Of the 5th Detachment of the 2nd Coming of the Silver Flame, nothing remained. The soldiers, fractured and divided as an army between Nirvana Knives and the High Marshall, were slain ruthlessly and utterly. Their bodies littered the forest floor like many scattered leaves.
+6) Of the reinforcements, the 5th Detachment of the 2nd Coming of the Silver Flame, nothing remained. The soldiers, fractured and divided as an army between Nirvana Knives and the High Marshall, were slain ruthlessly and utterly. Their bodies littered the forest floor like many scattered leaves.
 
 7) The Holy Kingdom of Arrabar would rule for many years to come.
 
@@ -94,5 +94,7 @@ Nirvana Knives traveled with Luth for a time on the humble dirt path out of Yarg
 ...
 
 ## **TO BE CONTINUED**
+
+[Click here to visit the main page!](https://gotr2024.netlify.app)
 <img src= "static/images/NKPg1.png" target="_blank" rel="noopener"/>
 <img src= "/static/images/NKPg2.png" target="_blank" rel="noopener"/>

@@ -8,7 +8,7 @@ date = 2024-07-18T14:11:12-04:00
 
 ## Introduction
 
-In year 1400 DR, **Stuu the Dwarf**, a cook of the highest order who others called an Oath of Ancients Paladin, was one of the four heroes of legend (with Narrinesh, [Nirvana Knives](https://gotr2024.netlify.app/posts/nirvana-knives/), and Luth Amastacia) to foil the Necromancer's plans in the Gate of the Reach fortress under the mountain. 
+In year 1400 DR, **Stuu the Dwarf**, a cook of the highest order who others called an Oath of Ancients Paladin, was one of the four heroes of legend (with [Narrinesh](https://gotr2024.netlify.app/posts/narrinesh-the-monk/), [Nirvana Knives](https://gotr2024.netlify.app/posts/nirvana-knives/), and Luth Amastacia) to foil the Necromancer's plans in the Gate of the Reach fortress under the mountain. 
 A loyal ally and frightening enemy, Stuu traveled the land over with a good hat on his head and a firm stout in his belly.
 Called upon by his ancestors to make an Oath, Stuu baked a bread loaf and thusly he entered the Paladin order. 
 
@@ -26,7 +26,7 @@ and a pot lid that he uses as a shield, but he also cooks his stew in the lid ov
 #### Act 1
 - When tousling with Norm the diamond-encrusted animated armor guarding the Circle Hallway which connects the outside of the mountain kingdom,
 Stuu and Narrinesh tore off Norm's head from its body, ending the life of Norm.  **Neutral Deed** 
-> *The Obituary of Norman, the Animated Suit of Armor: "Norman, or Norm as he was called by friends, died today. He was created by the chief architect of the Gate of the Reach kingdom, and encrusted with gems and jewels which would disintegrate upon his destruction. Although he once had many jobs, especially carrying around glass mosaics to be placed into the mountain in a secret teleportation network, after the death of his master he only had one job: to protect the Gate of the Reach from invaders. When the undead slaughtered all the residents, he failed his job, but never gave up his mission. Norm was named after Norm Monik, who was a famous folk hero from the Darkhook Square District of the Kingdom of Ythenia before its destruction. Norm had a brother, an unfinished, equally lavishly adorned suit of armor, which was positioned waiting to be animated within the architect's office at the bottom of the mountain, where it held a glass mosaic with an iron grip. Norm was a good suit of armor who enjoyed making haikus. His head would be used as a bludgeoning weapon by Stuu the dwarf in months to come." Engraved at the bottom of the headstone: "1+1  |  1+1+1  |  1+1"* (Session 5)
+> *The Obituary of Norman, the Animated Suit of Armor: "Norman, or Norm as he was called by friends, died today. He was created by the chief architect of the Gate of the Reach kingdom, and encrusted with gems and jewels which would disintegrate upon his destruction. Although he once had many jobs, especially carrying around glass mosaics to be placed into the mountain in a secret teleportation network, after the death of his master he only had one job: to protect the Gate of the Reach from invaders. When the undead slaughtered all the residents, he failed his job, but never gave up his mission. Norm was named after Norm Monik, who was a famous folk hero from the Darkhook Square District of the Kingdom of Ythenia before its destruction. Norm had a brother, an unfinished, equally lavishly adorned suit of armor, which was positioned waiting to be animated within the architect's office at the bottom of the mountain, where it held a glass mosaic with an iron grip. Norm was a good suit of armor who enjoyed making haikus. His head would be used as a bludgeoning weapon by Stuu the dwarf in months to come." Engraved at the bottom of the headstone: "1+1+1  |  1+1+1+1  |  1+1+1"* (Session 5)
 
 - Stuu fashioned breathing tubes out of reeds to escape the undead in the Akanamere marsh. He coined this innovation, "Sneeds Snoods." **Neutral Deed** 
 
@@ -51,7 +51,7 @@ Stuu lived up to the highest expectations of his ancestors, and to his greatest 
 
 - Stuu proclaimed himself "The Strong" when challenged by Feroi, the Elven Warrior. **Neutral Deed**
 
-- Stuu purchased Psydu, a jungle velociraptor, from the Elvish terrorist band, raising the raptor from a baby. **Neutral Deed**
+- Stuu purchased Psydu, a jungle velociraptor, from the Elvish terrorist band Eldreth Veluuthra, raising the raptor from a baby. **Neutral Deed**
 
 #### Act 2
 
@@ -67,14 +67,15 @@ The chamber of the Heart of the Mountain had been made into a prison for Akulu t
 
 >*"Four intrepid adventurers sit in a small, rocking boat, out in the middle of a vast lake. Beyond the trees, in the horizon, the peak of the Vilhon Reach leers down menacingly on you. From a distance, you can see bolts of lightning strike the peak with great fury - the echoing thunder from the flashing lights in the distance rolls across the lake, and reflects in the grey water that streams past beneath you."* (Session 43)
 
-- By Session 56, Stuu REALLY wanted a new weapon.
-
 - In the Dwarven Village under the mountain, Stuu came face to face with his family's ancient enemy, the Grime.
 The dwarves were green, frozen in suspended animation, polluted by the Grime.
 In a sudden challenge, the dwarven forms in various states of injury unfroze and began to assault them as if the adventurers were undead assailants themselves. In a moment that he would remember for the rest
 of his days, he swung his warhammer at the dwarven forms, dispatching the spirits and causing the Grime to explode into millions of pieces. When they were frozen in an animated state, Stuu placed barrels of ale over their frozen forms so that they would be trapped in barrels of ale when they animated. Stuu then prayed for their dwarven souls, giving them funerary rights and putting their souls to peace.
  Such a display of mastery over the Grime was nothing short of heroic. He fulfilled
 his Loaf as a Paladin and the destiny of his clan.  **Heroic Deed**
+>*"My condolences, a horrible death you must have had," said Stuu, placing a plum and bread at the entrance to the dwarven village. At the sight of Stuu's leaving bread, Nirvana Knives became indescribably angry.* (Session 52)
+
+- By Session 56, Stuu REALLY wanted a new weapon.
 
 - Stuu gave the correct response to Henisara's memory, freeing her from her eternal torment, by responding to her question,
 "How will I know you'll return? What will you give me as a promise?", by saying, "This Rose Dagger." As one last favor
@@ -91,7 +92,7 @@ When the fungal colony beneath the marsh offered to heal the muscles, instead, S
  - Stuu, along with the party of four, defeated the Necromancer within his foul cathedral inside the Corrupted Unity Stone. 
  Stuu and his compatriots saw how Nirvana Knives was tempted to take the power of the Corrupted Unity Stone for herself
  and gain all the power that Aeron Morieth had as the Necromancer. In exchange for controlling the stone and preventing it from
- falling into the wrong hands, she would become corrupted and evil from that point forward. Stuu played an instrumental role in convincing
+ falling into the wrong hands, she would sacrifice herself, becoming corrupted and evil from that point forward. Stuu played an instrumental role in convincing
  Nirvana Knives not to take this path, and instead disconnect the Corrupted Unity Stone from the Torch of the Reach. Later then, the adventurers
  could find a way to remove the hundreds of thousands of souls from the stone. The Party of Four successfully ended the enchantment,
  stealing the Corrupted Unity Stone, the Necromancer's critical source of power, from the Necromancer. Unfortunately, the players now had to
@@ -102,7 +103,7 @@ When the fungal colony beneath the marsh offered to heal the muscles, instead, S
 
 ## Aftermath
 
-1) The Resurrection Mechanism within the Corrupted Unity Stone was prematurely activated, before all four pieces of the Torch of the Reach were plugged in. Without all of the pieces in place, Akulu would never be able to resurrect. The spell miscast, causing an eruption of souls to build into a volcano and carry the players out of the top of the mountain. The bones of Akulu the Vile were destroyed completely by the corrosive acid of the soul residue, which does not damage the living, only that which is dead.
+1) The Resurrection Mechanism within the Corrupted Unity Stone was prematurely activated before all four pieces of the Torch of the Reach were plugged in. Without all of the pieces in place, Akulu would never be able to resurrect. The spell miscast, causing an eruption of souls to build into a volcano and carry the players out of the top of the mountain. The bones of Akulu the Vile were destroyed completely by the corrosive acid of the soul residue, which does not damage the living, only that which is dead.
 
 2) In his quest to recapture the stone and get his revenge, the Necromancer Akulu the Vile will hunt Stuu down, sending undead assassins and agents to seek him out. Stuu will never feel safe or at ease while Aeron Morieth is alive.
 
@@ -112,7 +113,7 @@ When the fungal colony beneath the marsh offered to heal the muscles, instead, S
 
 5) The Original Expedition: Banger, Harolda, Theresa, and Beth, fared well in the battle. Over the long-term, the players were able to please all four of them by completing their building construction side-objective quests.  They were grateful for Stuu's leadership and remained faithful throughout the final battle for the Reach.
 
-6) Of the 5th Detachment of the 2nd Coming of the Silver Flame, nothing remained. The soldiers, fractured and divided as an army between Nirvana Knives and the High Marshall, were slain ruthlessly and utterly. Their bodies littered the forest floor like many scattered leaves.
+6) Of the reinforcements, the 5th Detachment of the 2nd Coming of the Silver Flame, nothing remained. The soldiers, fractured and divided as an army between Nirvana Knives and the High Marshall, were slain ruthlessly and utterly. Their bodies littered the forest floor like many scattered leaves.
 
 7) The Holy Kingdom of Arrabar would rule for many years to come.
 
@@ -124,3 +125,5 @@ That moment, with a knock on the door, Beth Stoneaxe tracked Stuu to that mounta
 ...
 ...
 ## **TO BE CONTINUED**
+
+[Click here to visit the main page!](https://gotr2024.netlify.app)
