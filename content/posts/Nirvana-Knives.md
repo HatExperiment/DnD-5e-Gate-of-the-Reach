@@ -3,7 +3,7 @@ title = 'Nirvana Knives'
 date = 2024-07-18T14:10:42-04:00
 +++
 
-![NirvanaHeadshot](/NirvanaHeadshot.png)
+![NirvanaHeadshot](/NKHS.png)
 
 
 ## Introduction
