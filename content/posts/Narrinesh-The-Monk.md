@@ -13,7 +13,7 @@ upon him and his party. Narrinesh was a sworn vegetarian.
 
 #### Appearance
 
-Narrinesh is small for a Dragonborn, lean and as buff as a blacksmith, with green eyes and black scales. He often melts effortlessly into the shadows, on account of his relatively small, slim figure. Two sharp horns protrude from the back of his head and curve backwards. Narrinesh keeps himself assiduously clean,
+Narrinesh is small for a Dragonborn, lean and as hard as a blacksmith, with green eyes and black scales. He often melts effortlessly into the shadows, on account of his relatively small, slim figure. Two sharp horns protrude from the back of his head and curve backwards. Narrinesh keeps himself assiduously clean,
 and can often be found meditating, focusing his Ki, or talked into drinking alcohol with his good buddy Stuu. When Narrinesh channels his astral self form, two robotic arms manifest behind each of his shoulders to unleash multiple punches in a manner of seconds.
 When someone attacks him, and even sometimes when unprovoked, Narrinesh opens his jaws wide to spit green acid in a cone in front of him, melting flesh and causing excruciating pain to any misfortunates in range.
 
@@ -28,7 +28,9 @@ When someone attacks him, and even sometimes when unprovoked, Narrinesh opens hi
 Stuu and Narrinesh tore off Norm's head from its body, ending the life of Norm.  **Neutral Deed** 
 > *The Obituary of Norman, the Animated Suit of Armor: "Norman, or Norm as he was called by friends, died today. He was created by the chief architect of the Gate of the Reach kingdom, and encrusted with gems and jewels which would disintegrate upon his destruction. Although he once had many jobs, especially carrying around glass mosaics to be placed into the mountain in a secret teleportation network, after the death of his master he only had one job: to protect the Gate of the Reach from invaders. When the undead slaughtered all the residents, he failed his job, but never gave up his mission. Norm was named after Norm Monik, who was a famous folk hero from the Darkhook Square District of the Kingdom of Ythenia before its destruction. Norm had a brother, an unfinished, equally lavishly adorned suit of armor, which was positioned waiting to be animated within the architect's office at the bottom of the mountain, where it held a glass mosaic with an iron grip. Norm was a good suit of armor who enjoyed making haikus. His head would be used as a bludgeoning weapon by Stuu the dwarf in months to come." Engraved at the bottom of the headstone: "1+1+1  |  1+1+1+1  |  1+1+1"* (Session 5)
 
-- After just arriving at the Gate of the Reach, while setting up a log-trap to ambush any undead that set themselves upon the camp, Holden and his detachment returning from a patrol accidentally triggered the log trap. Angrily confronted by Holden, who was convinced that the four adventurers had set the trap to kill them, Narrinesh spat vile acid directly across Holden's face, melting half of the skin off and leaving a permanent scar. This ended the argument. **Evil Deed**
+- After just arriving at the Gate of the Reach, Narrinesh was one of the adventurers to set up a log-trap on the perimeter of camp to ambush any undead that attacked from the surrounding forest.
+When Holden and his detachment, returning from a patrol, accidentally triggered the log trap, Holden angrily confronted the four party members, convinced as he was that the trap was set for him.
+Narrinesh spat vile acid directly across Holden's face, melting half of the skin off and leaving a permanent scar. This ended the argument. **Evil Deed**
 
 - In a feat of astonishing athleticism that Narrinesh would later be known for, Narrinesh saved his friends on the perilous ice-covered rusted metal staircase in the Frozen Approach. While some members of the party fell through the metal, Stuu failing his athletic checks and nearly plummeting one-hundred feet to an untimely death, Narrinesh masterfully navigated the spiral staircase and saved his companions. The treachery of the frozen staircase was no match for Narrinesh's heroism. **Heroic Deed**
 > *"From the edges of the room, twisting animated metal begins to travel upwards like vines reaching towards the sky, snow drifts flung from steel as it does so. AS you watch, the twisting grows more and more refined, more and more tight, until the metal forms itself into what appears to be a twisting spiral staircase. Looking up, you see the frozen staircase leads upwards into the ceiling far out of sight."* (Session 14)
@@ -41,7 +43,7 @@ Stuu and Narrinesh tore off Norm's head from its body, ending the life of Norm. 
 - Made a target by the simple fact of his black dragon lineage, Narrinesh successfully resisted possession by the Necromancer, Aeron Morieth, who attempted to kidnap him and make him run into the forest.
 > *"Deep within the forest, something changes. A front of air, a mass of pressure, something born aloft above the leaves, flies like a missile towards the Vilhon Reach Encampment. It is an invisible force, shifting leaves, cutting through branches, and it spirals directly towards Narrinesh."* (Session 26)
 
-- Narrinesh proclaimed herself "The Good" when challenged by Feroi, the Elven Warrior. **Neutral Deed** (Session 37)
+- Narrinesh proclaimed himself "The Good" when challenged by Feroi, the Elven Warrior. **Neutral Deed** (Session 37)
 
 - At the grizzly feast of the elvish terrorist group the Eldreth Veluuthra, where the main course of the meal was man flesh and Nirvana Knives made an evil deal to secure Arrabarean reinforcements in exchange for the lives of Brith and magic-wielding refugees from the Purge of Ire, Narrinesh was found crying.  (Session 37)
 
@@ -99,17 +101,17 @@ When the fungal colony beneath the marsh offered to heal the muscles, Narrinesh 
 
 4) The spellcaster refugees of the reach did well in the face of the overwhelming odds of the Purge of Ire. While the Whispering Serpents with Nirvana Knives traded the life of Briff and his school for reinforcements, the Spellweavers Rebellion grew and gained many members. They would grow into a sizable movement.
 
-5) The Original Expedition: Banger, Harolda, Theresa, and Beth, fared well in the battle. Over the long-term, the players were able to please all four of them by completing their building construction side-objective quests.  They were grateful for Stuu's leadership and remained faithful throughout the final battle for the Reach.
+5) The Original Expedition: Banger, Harolda, Theresa, and Beth, fared well in the battle. Over the long-term, the players were able to please all four of them by completing their building construction side-objective quests.  They were grateful for Narrinesh's leadership and remained faithful throughout the final battle for the Reach.
 
 6) Of the reinforcements, the 5th Detachment of the 2nd Coming of the Silver Flame, nothing remained. The soldiers, fractured and divided as an army between Nirvana Knives and the High Marshall, were slain ruthlessly and utterly. Their bodies littered the forest floor like many scattered leaves.
 
 7) The Holy Kingdom of Arrabar would rule for many years to come.
 
-Narrinesh's road was a long one, yet it was far from done. The end of the Gate of the Reach Adventure still found Narrinesh seeking his sister. Narrinesh decided to set out onto the road with Stuu. The two of them, inseparable, traveled through hills and
-vales, drinking their way through all the inns in the bustling major port cities, and through the secluded hamlets with single taverns nestled deep in forests. They gambled and spent their new-found wealth away. Sometimes, after a few drinks, they could be convinced to tell the tale of the Gate of the Reach, no one ever believed them. It was in a small desert hamlet, where Narrinesh had stayed for an unusually long time with Stuu,
-that his twin sister Sorva appeared out of the desert. She claimed that her footsteps had been guided by a red dragon in her dreams. Leaving Stuu to his path, Narrinesh set off with his sister to reclaim the abandoned smithy that they were 
-raised in, before monks, dragons, and evil necromancers - in his heart, Narrinesh knew he had finally found a life of peace for himself at last. As for the Corrupted Unity Stone? Should his friends come knocking at his door, perhaps once more, he would
-set out with a pack on his back, to climb one more mountain, hop one more zipline, partake in one more adventure. He already had a lifetime of adventure, and he could be convinced to take another!
+Narrinesh's road was a long one, and by the end of the tale, it was far from done. Despite all he had accomplished in the Gate of the Reach under the mountain, Narrinesh still sought his twin sister and his master. Freed from the mountain's curse, Narrinesh decided to set out onto the road with Stuu. The two of them, inseparable, traveled through hills and
+vales, drinking their way through all the inns from the major bustling port cities, to the secluded hamlets nestled deep in forests. They gambled and spent their new-found wealth away. Sometimes, only after much drinking, Narrinesh and Stuu could be convinced to tell the tale of the Gate of the Reach, but no one ever believed them. It was in a small desert hamlet, where Narrinesh had stayed with Stuu for an unusually long time,
+that his twin sister Sorva found him. She claimed that her footsteps had been guided by a red dragon in her dreams, and she asked Narrinesh to come with her. Reunited with his sister, Narrinesh left Stuu to his path, deciding to reclaim the abandoned smithy that his family was 
+raised in, before monks, dragons, and evil necromancers. In his heart, Narrinesh knew he had found a life of peace for himself at last. As for the Corrupted Unity Stone? Should his old friends come knocking at his door, perhaps again, he would
+set out with a pack on his back to climb one more mountain, ride one more zipline, partake in one more adventure. His friends were true to him, and Narrinesh would be true to them to the very last.
 
 ...
 ...
