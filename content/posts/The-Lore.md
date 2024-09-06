@@ -1,5 +1,5 @@
 +++
-title = 'Luth Amastacia'
+title = 'The Lore'
 date = 2024-07-18T14:11:23-04:00
 +++
 
