@@ -1,6 +1,6 @@
 +++
 title = 'The Lore'
-date = 2024-09-06T14:11:23-04:00
+date = 2024-07-18T14:11:23-04:00
 +++
 
 ## Introduction
