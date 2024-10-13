@@ -91,11 +91,11 @@ When the fungal colony beneath the marsh offered to heal the muscles, Narrinesh 
  find a way to remove the souls from the stone... and Aeron Morieth would never rest, would send all of his servants, assassins, and monsters
  out into the world, until he regained control of the stone for himself once again. **Heroic Deed**
  
- **Heroic Deeds:**  3 (17%)
- **Good Deeds:**    4 (24%)
- **Neutral Deeds:** 8 (48%)
- **Evil Deeds:**    2 (11%)
-*Narrinesh was Chaotic Neutral during the playthrough! His given alignment is Chaotic Good.*
+ - **Heroic Deeds:**  3 (17%)
+ - **Good Deeds:**    4 (24%)
+ - **Neutral Deeds:** 8 (48%)
+ - **Evil Deeds:**    2 (11%)
+> *Narrinesh was Chaotic Neutral during the playthrough! His given alignment is Chaotic Good.*
 
 ## Aftermath
 

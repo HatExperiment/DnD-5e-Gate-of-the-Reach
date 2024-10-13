@@ -102,11 +102,11 @@ as a capable instrument of the light to his Patron, and will receive limitless p
 in this relationship, Luth will wield the power of the light with brilliant and blinding strength. **Heroic Deed**
 > *"Deep in your soul, you feel more than hear the satisfaction of your patron rumbling deep inside you like a great lion: "You have done well..."
 
-**Heroic Deeds:**  0 (21%)
-**Good Deeds:**    0 (33%)
-**Neutral Deeds:** 0 (46%)
-**Evil Deeds:**    0
-*Luth was  during the playthrough! His given alignment is Chaotic Good.*
+- **Heroic Deeds:**  0 (21%)
+- **Good Deeds:**    0 (33%)
+- **Neutral Deeds:** 0 (46%)
+- **Evil Deeds:**    0
+> *Luth was  during the playthrough! His given alignment is Chaotic Good.*
 
 ## Aftermath
 

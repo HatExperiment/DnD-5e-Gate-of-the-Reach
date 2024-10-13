@@ -3,11 +3,11 @@ title = 'Nirvana Knives'
 date = 2024-07-18T14:10:42-04:00
 +++
 
-![NirvanaHeadshot](/NKHS.png)
+![NirvanaHeadshot](/NirvanaHeadshot.png)
 
 
 ## Introduction
-In year 1400 DR, **Nirvana Knives**, a Tiefling Soul Knife Rogue, was one of the four heroes of legend (with [Narrinesh](https://gotr2024.netlify.app/posts/narrinesh-the-monk/), [Stuu the Dwarf](https://gotr2024.netlify.app/posts/stuu-the-dwarf/), and Luth Amastacia) who foiled the Necromancer's plans in the Gate of the Reach fortress under the mountain. At once a self-determined rogue and calculating leader, Nirvana would stop at nothing to achieve her own desires, believing the ends always justify the means. She relentlessly pursued this path, at times, against the wishes of her own friends and companions to see her greater vision achieved.
+In year 1400 DR, **Nirvana Knives**, a Tiefling Soul Knife Rogue, was one of the four heroes of legend (with [Narrinesh](https://gotr2024.netlify.app/posts/narrinesh-the-monk/), [Stuu the Dwarf](https://gotr2024.netlify.app/posts/stuu-the-dwarf/), and [Luth Amastacia](https://gotr2024.netlify.app/posts/luth-amastacia/)) who foiled the Necromancer's plans in the Gate of the Reach fortress under the mountain. At once a self-determined rogue and calculating leader, Nirvana would stop at nothing to achieve her own desires, believing the ends always justify the means. She relentlessly pursued this path, at times, against the wishes of her own friends and companions to see her greater vision achieved.
 
 #### Appearance
 
@@ -27,6 +27,9 @@ Nirvana Knives is a slim figure with burgundy skin, dressed in dark, imposing cl
 in a letter to ask for reinforcements from the Holy Kingdom of Arrabar. The initials 'NK' written in the letter became a great source of curiosity for the courtesans of King Rhygar Wianar, and news of the letter reached the King Himself. Rumors spread quickly that there might have been a mutiny against Yargon. 
 Fortunately, or unfortunately, when Arrabar engaged their spy network to determine who 'NK' was, Tellia heard about it and traveled to the Court of the Silver Flame to attest before the court herself that Nirvana Knives was the mysterious sender. By sending this letter, Nirvana forever linked her doomed expedition's fate to the Kingdom of Arrabar. In the meantime, curious about her former acquaintance's plans, Tellia set out at once to the Maerthwatch to find her old partner and possibly strike a new deal... **Neutral Deed**
 > *"We know who you are, Tiefling...Should you desire for your reinforcements, or more aptly for your just reward, travel south of your location to the Northern-most reaches of the Chondalwood - a simple journey less than a day on mount to the Southwest...Do this, so the Royal Saint Wianar might know the true value of your loyalty. Otherwise, I shall relish in the destruction of your auspices. Cheering Regards, Provisionary Captain of the Guard 2nd Class, Regiment of the Holy Kingdom of Arrabar and his Holy Saint, Miwynn Merriweather."* (Session 34) 
+
+- Nirvana Knives and her companions rescued two detachments from the moutain, ensuring that the Corrupted Unity Stone did not consume more victims within the dire peaks. **Good Deed**
+> *"As they force their way past the Mess Hall and Norman's old barricade, the soldiers begin to pick up their pace. From the mouth of the Vilhon Reach stronghold, soldiers in camp winding down for the day, sharpening swords, tightening straps, and buffing their leathers look up - with a series of shouts there is a flurry of activity, as Soldiers of Arrabar arise and run to great their companions. The survivors are bombarded as they are hugged, punched in the arms, their helmets knocked, their shoulders shook, and you see Lengy Stronghammer stand with his mouth agape in a wide toothy grin. They escaped, they survived."* (Session 19)
 
 - Nirvana Knives proclaimed herself "The Honest" when challenged by Feroi, the Elven Warrior. **Neutral Deed**
 
@@ -67,7 +70,13 @@ from Arrabar in their place: that is, beneath her. **Heroic Deed**
 - History was set to repeat itself. The undead dragon was ready to awaken, the forces of Arrabar were ready to enter the mountain to rescue Yargon, and the undead were ready to attack and trap them on both sides. To counter such an eventuality, before entering the mountain for the last time, Nirvana Knives conspired with the Whispering Serpents to use the siege weapon the reinforcements brought to collapse the Gate of the Reach for good. Such as it was, that day, disaster was averted at the cost of the mighty wooden gates which were torn asunder. **Good Deed**
 > *" I recommend that you all look out for each other. Dark machinations seem to be in motion, not just under the Reach, but within Yargongone itself. I wouldn't put it beneath the Marshall to attempt to detain those who do not follow his ... ambitions." Nirvana Knives to Banger* (Session 71)
 
-- Nirvana Knives, along with the party of four, defeated the Necromancer within his foul cathedral inside the Corrupted Unity Stone. Nirvana Knives recognized an opportunity to take the power of the Corrupted Unity Stone for herself and gain all the power that Aeron Morieth held as the Necromancer. In sacrificing herself in this way, she would become the next Necromancer of the Maerthwatch with all the power that this entailed. In doing so, she would control the stone and prevent the souls from falling into the wrong hands, at the cost of her also becoming corrupted and evil from that point forward. Despite her extreme, sore temptation, she gave in to the pleas of her companions to allow them to safely disconnect the Corrupted Unity Stone from the Torch of the Reach mechanism and find a way to remove the hundreds of thousands of souls from the stone. The party of four successfully ended the enchantment, stealing the Corrupted Unity Stone, the Necromancer's critical source of power, from the Necromancer. Unfortunately, the players now had to find a way to remove the souls from the stone... and Aeron Morieth would never rest, would send all of his servants, and assassins, and monsters out into the world, until he regained control of the stone for himself once more. **Heroic Deed**
+- Nirvana Knives, as a member of the party of four, defeated the Necromancer within his foul cathedral inside the Corrupted Unity Stone. Nirvana Knives recognized an opportunity to take the power of the Corrupted Unity Stone for herself and gain all the power that Aeron Morieth held as the Necromancer. In sacrificing herself in this way, she would become the next Necromancer of the Maerthwatch with all the power that this entailed. In doing so, she would control the stone and prevent the souls from falling into the wrong hands, at the cost of her also becoming corrupted and evil from that point forward. Despite her extreme, sore temptation, she gave in to the pleas of her companions to allow them to safely disconnect the Corrupted Unity Stone from the Torch of the Reach mechanism and find a way to remove the hundreds of thousands of souls from the stone. The party of four successfully ended the enchantment, stealing the Corrupted Unity Stone, the Necromancer's critical source of power, from the Necromancer. Unfortunately, the adventurers now had to find a way to remove the souls from the stone... and Aeron Morieth would never rest, would send all of his servants, and assassins, and monsters out into the world, until he regained control of the stone for himself once more. **Heroic Deed**
+
+- **Heroic Deeds:**  2 (17%)
+- **Good Deeds:**    5 (42%)
+- **Neutral Deeds:** 4 (33%)
+- **Evil Deeds:**    1 (8%)
+> *Nirvana was Chaotic Neutral during the playthrough! Her given alignment is Chaotic Neutral.*
 
 ## Aftermath
 
@@ -95,6 +104,6 @@ Nirvana Knives traveled with Luth for a time on the humble dirt path out of Yarg
 
 ## **TO BE CONTINUED**
 
-[Click here to visit the main page!](https://gotr2024.netlify.app)
+([Click here to visit the main page!](https://gotr2024.netlify.app))
 <img src= "static/images/NKPg1.png" target="_blank" rel="noopener"/>
 <img src= "/static/images/NKPg2.png" target="_blank" rel="noopener"/>

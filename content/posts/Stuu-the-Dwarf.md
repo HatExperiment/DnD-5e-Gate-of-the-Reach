@@ -100,11 +100,11 @@ When the fungal colony beneath the marsh offered to heal the muscles, instead, S
  out into the world, until he regained control of the stone for himself once again. **Heroic Deed**
  
 
-**Heroic Deeds:**  3 (21%)
-**Good Deeds:**    5 (33%)
-**Neutral Deeds:** 7 (46%)
-**Evil Deeds:**    0
-*Stuu was Lawful Good during the playthrough! His given alignment is Chaotic Good.*
+- **Heroic Deeds:**  3 (21%)
+- **Good Deeds:**    5 (33%)
+- **Neutral Deeds:** 7 (46%)
+- **Evil Deeds:**    0
+> *Stuu was Lawful Good during the playthrough! His given alignment is Chaotic Good.*
 
 ## Aftermath
 
