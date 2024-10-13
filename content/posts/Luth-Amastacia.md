@@ -102,11 +102,11 @@ as a capable instrument of the light to his Patron, and will receive limitless p
 in this relationship, Luth will wield the power of the light with brilliant and blinding strength. **Heroic Deed**
 > *"Deep in your soul, you feel more than hear the satisfaction of your patron rumbling deep inside you like a great lion: "You have done well..."
 
-- **Heroic Deeds:**  0 (21%)
-- **Good Deeds:**    0 (33%)
-- **Neutral Deeds:** 0 (46%)
+- **Heroic Deeds:**  3 (19%)
+- **Good Deeds:**    6 (38%)
+- **Neutral Deeds:** 7 (43%)
 - **Evil Deeds:**    0
-> *Luth was  during the playthrough! His given alignment is Chaotic Good.*
+> *Luth was Lawful Good during this playthrough! His given alignment is Chaotic Good.*
 
 ## Aftermath
 
@@ -124,9 +124,14 @@ in this relationship, Luth will wield the power of the light with brilliant and 
 
 7) The Holy Kingdom of Arrabar would rule for many years to come.
 
-
-
-Extra content...
+From being thrust upon a strange quest, to the dramatic conclusion of the Gate of the Reach, Luth had gone from inexperience and mistrust
+to being the sole bearer, the sole hope, of the disenchantment of the Corrupted Unity Stone to release the hundreds of thousands of souls captured within. 
+It was a large burden indeed, and no other child would ever relate to. Yet, despite red and black dragons, necromancers, great wizards, and fields of undead, Luth was 
+optimistically, unchangably just a kid. Nothing would change that. Striding on his solitary path on the dirt road heading north out of Yargongone for the last time, disguised with a hood cast over his head,
+Luth felt a slight spring in his step. Despite the fact he had never felt so far from friends and kin, he did not feel alone. As the warm, white light of his patron sheathed his figure and cast him 
+magically far across the land Luth smiled. He knew that if he but reached out, if he called on his new friends, they would be there to help him on this final leg of the quest. As Luth stood
+in the center of Cimbar, the Corrupted Unity Stone concealed carefully beneath his robe, he felt more ready than ever to find Tzchazzar, find Feroi, and find his family for once
+and for good.
 
 ...
 ...

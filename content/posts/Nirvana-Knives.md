@@ -76,7 +76,7 @@ from Arrabar in their place: that is, beneath her. **Heroic Deed**
 - **Good Deeds:**    5 (42%)
 - **Neutral Deeds:** 4 (33%)
 - **Evil Deeds:**    1 (8%)
-> *Nirvana was Chaotic Neutral during the playthrough! Her given alignment is Chaotic Neutral.*
+> *Nirvana was Chaotic Neutral during this playthrough! Her given alignment is Chaotic Neutral.*
 
 ## Aftermath
 

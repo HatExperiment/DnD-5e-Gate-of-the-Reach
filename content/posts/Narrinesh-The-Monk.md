@@ -95,7 +95,7 @@ When the fungal colony beneath the marsh offered to heal the muscles, Narrinesh 
  - **Good Deeds:**    4 (24%)
  - **Neutral Deeds:** 8 (48%)
  - **Evil Deeds:**    2 (11%)
-> *Narrinesh was Chaotic Neutral during the playthrough! His given alignment is Chaotic Good.*
+> *Narrinesh was Chaotic Neutral during this playthrough! His given alignment is Chaotic Good.*
 
 ## Aftermath
 

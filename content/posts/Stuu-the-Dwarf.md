@@ -104,7 +104,7 @@ When the fungal colony beneath the marsh offered to heal the muscles, instead, S
 - **Good Deeds:**    5 (33%)
 - **Neutral Deeds:** 7 (46%)
 - **Evil Deeds:**    0
-> *Stuu was Lawful Good during the playthrough! His given alignment is Chaotic Good.*
+> *Stuu was Lawful Good during this playthrough! His given alignment is Chaotic Good.*
 
 ## Aftermath
 
