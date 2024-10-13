@@ -3,7 +3,6 @@ title = 'The Lore'
 date = 2024-07-18T14:11:23-04:00
 +++
 
-## Introduction
 
 ![Map](/Map.png)
 
@@ -20,3 +19,5 @@ The Corrupted Unity Stone:
 https://forgottenrealms.fandom.com/wiki/The_Shadow_Stone
 Tchazzar:
 https://forgottenrealms.fandom.com/wiki/Tchazzar 
+
+([Click here to visit the main page!](https://gotr2024.netlify.app))

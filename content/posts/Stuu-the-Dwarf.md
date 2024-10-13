@@ -8,7 +8,7 @@ date = 2024-07-18T14:11:12-04:00
 
 ## Introduction
 
-In year 1400 DR, **Stuu the Dwarf**, a cook of the highest order who others called an Oath of Ancients Paladin, was one of the four heroes of legend (with [Narrinesh](https://gotr2024.netlify.app/posts/narrinesh-the-monk/), [Nirvana Knives](https://gotr2024.netlify.app/posts/nirvana-knives/), and Luth Amastacia) to foil the Necromancer's plans in the Gate of the Reach fortress under the mountain. 
+In year 1400 DR, **Stuu the Dwarf**, a cook of the highest order who others called an Oath of Ancients Paladin, was one of the four heroes of legend (with [Narrinesh](https://gotr2024.netlify.app/posts/narrinesh-the-monk/), [Nirvana Knives](https://gotr2024.netlify.app/posts/nirvana-knives/), and [Luth Amastacia](https://gotr2024.netlify.app/posts/luth-amastacia/)) to foil the Necromancer's plans in the Gate of the Reach fortress under the mountain. 
 A loyal ally and frightening enemy, Stuu traveled the land over with a good hat on his head and a firm stout in his belly.
 Called upon by his ancestors to make an Oath, Stuu baked a bread loaf and thusly he entered the Paladin order. 
 
@@ -89,17 +89,22 @@ When the fungal colony beneath the marsh offered to heal the muscles, instead, S
  
  - In the fight against Aeron Morieth, Stuu landed the killing blow with a mighty swing at Aeron's head and rude words. **Good Deed**
  
- - Stuu, along with the party of four, defeated the Necromancer within his foul cathedral inside the Corrupted Unity Stone. 
- Stuu and his compatriots saw how Nirvana Knives was tempted to take the power of the Corrupted Unity Stone for herself
+ - Stuu, as a member of the party of four, defeated the Necromancer within his foul cathedral inside the Corrupted Unity Stone. 
+ Stuu and his companions saw how Nirvana Knives was tempted to take the power of the Corrupted Unity Stone for herself
  and gain all the power that Aeron Morieth had as the Necromancer. In exchange for controlling the stone and preventing it from
  falling into the wrong hands, she would sacrifice herself, becoming corrupted and evil from that point forward. Stuu played an instrumental role in convincing
  Nirvana Knives not to take this path, and instead disconnect the Corrupted Unity Stone from the Torch of the Reach. Later then, the adventurers
  could find a way to remove the hundreds of thousands of souls from the stone. The Party of Four successfully ended the enchantment,
- stealing the Corrupted Unity Stone, the Necromancer's critical source of power, from the Necromancer. Unfortunately, the players now had to
+ stealing the Corrupted Unity Stone, the Necromancer's critical source of power, from the Necromancer. Unfortunately, the adventurers now had to
  find a way to remove the souls from the stone... and Aeron Morieth would never rest, would send all of his servants, assassins, and monsters
  out into the world, until he regained control of the stone for himself once again. **Heroic Deed**
  
- 
+
+**Heroic Deeds:**  3 (21%)
+**Good Deeds:**    5 (33%)
+**Neutral Deeds:** 7 (46%)
+**Evil Deeds:**    0
+*Stuu was Lawful Good during the playthrough! His given alignment is Chaotic Good.*
 
 ## Aftermath
 
@@ -126,4 +131,4 @@ That moment, with a knock on the door, Beth Stoneaxe tracked Stuu to that mounta
 ...
 ## **TO BE CONTINUED**
 
-[Click here to visit the main page!](https://gotr2024.netlify.app)
+([Click here to visit the main page!](https://gotr2024.netlify.app))
