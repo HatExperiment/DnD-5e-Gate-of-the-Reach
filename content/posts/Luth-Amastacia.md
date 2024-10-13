@@ -16,12 +16,12 @@ folly of their ways.
 #### Appearance
 
 Luth is a charismatic youth with misty grey eyes and a tan complexion. His hair is swept back, peppery black at the roots with white blonde tips. 
-Luth's boyish charms serve him well in getting by the rich and powerful without a second glance, and he seemingly only wears a small golden amulet around his neck and a book at his waist.
+Luth's boyish charms serve him well when getting past the rich and powerful without a second glance. He appears harmless, seemingly only wearing a small golden amulet around his neck and a book at his waist.
 However, looks can be deceiving: on command, the amulet becomes a brilliant, golden shortsword which Luth is extremely skilled at wielding
 to smite unholy and undead alike. With a simple word and a glance, golden bolts like meteors fly from his hand to incinerate targets at 
  range. Luth's power at such a young age should concern any evil creatures of the land, lest he grow up to rid the world of evil entirely. His
  patron, an elemental aspect of the Elvish God Corellon, manifests only extremely rarely in the physical world as a figure entirely aflame, his features in the shape of Prince Ghif, Luth's
- grandfather. Otherwise, he communicates through the amulet Luth bears upon his chest.
+ grandfather. Otherwise, the Aspect communicates only through the amulet Luth bears upon his chest.
 
 ![LuthSheet1](/LU1.png)
 ![LuthSheet2](/LU2.png)
@@ -30,54 +30,54 @@ to smite unholy and undead alike. With a simple word and a glance, golden bolts 
 
 #### Act 1
 - Using the small amount of information that his patron gave him, and a map projected onto his golden amulet, Luth led the adventuring party through the memory of the Fall of Ythenia and met his newest adventuring companions. **Good Deed**
-> *"Spells fly across the plaza - fireballs, great tracing arcs of lightning and spirling purple missiles, many of them flying from the roofs and windows of the buildings surrounding the plaza. The sound of tramping feet, shouting, and crying resounds underneath what sounds like thunder claps, and an everpresent BOOM that repeats again and again as massive flaming projectiles impact the shield surrounding the city."* (Session 19)
+> *"Spells fly across the plaza: fireballs, great tracing arcs of lightning and spirling purple missiles, many of them flying from the roofs and windows of the buildings surrounding the plaza. The sound of tramping feet, shouting, and crying resounds underneath what sounds like thunder claps, and an everpresent BOOM that repeats again and again as massive flaming projectiles impact the shield surrounding the city."* (Session 19)
 
-- Atop the Vilhon Reach mountains in a small warm cabin, when all of his companions had fallen fast asleep due to the deep sleep of the perilous Merulian Tea, Luth was able to resist the effects and warn his new friends of impending danger of Ry Harrigan. **Good Deed**
-> *"The sickly smell of ginger and lemon smoke upwards from the kettle on the ever-burning firepit in the center of the hut, and one small half-elf boy can smell that the leaves inside have begun to burn. The water has all but evaporated. As you rise, the hut is deathly quiet, other than the gentle snoozing of the dwarf, tiefling, and dragonborn laying on pillows aroudn the hut. The old half orc is nowhere to be seen."* (Session 24)
+- Atop the Vilhon Reach mountains in a small warm cabin, when all of his companions had fallen fast asleep due to the deep sleep of the perilous Merulian Tea, Luth was able to resist the effects and warn his new friends of impending danger of Rye Harrigan. **Good Deed**
+> *"The sickly smell of ginger and lemon smoke upwards from the kettle on the ever-burning firepit in the center of the hut, and one small half-elf boy can smell that the leaves inside have begun to burn. The water has all but evaporated. As you rise, the hut is deathly quiet, other than the gentle snoozing of the dwarf, tiefling, and dragonborn laying on pillows around the hut. The old Half-Orc is nowhere to be seen."* (Session 24)
 
 - Luth proclaimed himself "The Seeker" when challenged by Feroi, the Elven Warrior. **Neutral Deed**
 
 - Tapping into his magical abilities, Luth solved the Elvish puzzle box containing the Blood Orange Gem, discovering his natural talent to untangle complicated magical enchantments and unlocking a gift for studying abstract arcane topics.
-Luth would make a fine apprentice! **Heroic Deed**
+Luth would make a fine wizard's apprentice! **Heroic Deed**
 
-- At the grizzly feast of the elvish terrorist group the Eldreth Veluuthra, Luth found himself in a living nightmare. Even though he was the only one in the party who could speak Elvish, he was at the mercy of Nirvana Knives who dictated the decisions of the party. Knives chose not to fight for Briff but to sacrifice him and his Illusion magic school for Arrabarean reinforcements. Luth felt powerless, as he listened to the elves around them talk about the spellcasters like they are no higher than dirt, mistakes in nature's creation. **Neutral Deed**
+- At the grizzly feast of the elvish terrorist group the Eldreth Veluuthra, Luth found himself in a living nightmare. Even though he was the only one in the party who could speak Elvish, he was at the mercy of Nirvana Knives who dictated the negotiations of the party with Tellia. Knives chose not to fight for Briff but to leave them to the elves in exchange for Arrabarean reinforcements. Luth felt powerless as he listened to the elves around them talk about the spellcasters like they were no higher than dirt, mistakes in nature's creation. **Neutral Deed**
 > *"As the elves begin to herd the spellcasters down the length of the table, jeers and insults are thrown at them. Up and over the magical containment barrier, pieces of raw meat from the feast are thrown at the beaten and bloodied Briff and the spellcasters in a twisted game."* (Session 37)
 
 
 
 #### Act 2
 
-- By Act 2, Luth Amastacia hadn't internally even had time to process how he felt during this whole adventure. He had been thrust into this ordeal by his patron.
+- By Act 2, Luth Amastacia hadn't even had time to internally process how he felt during this whole adventure. He had been thrust into this ordeal by his patron.
 Luth felt that he had pretty much died once before, so this might be his second chance to save the world. At this moment in time, he had lingering questions about what was
 happening under the mountain. Ultimately, however, Luth enjoyed being surrounded by friends.
 
-- Luth, the one adventurer who was willing to undergo the ritual, sat in the Church at Yargongone to become willingly tattooed in blood.
-The tattoos were enchanted, enabling Luth to be able to see souls trapped within the Unity Stone, reliving the moment of their deaths
-in the mountain every night, giving Luth insights as to the curse of the mountain and the events of 50 years ago. In return, however, Luth came under the dominion and control of Harolda and the Silver Flame's blood magic.
-Harolda initially intended to use the tattoos to control and ultimately sacrifice Luth, but turned against the idea when she saw in Luth a new, powerful convert for her religion. **Neutral Deed**
+- Luth, the one adventurer who was willing to undergo the ritual, sat in the Church at Yargongone to become willingly tattooed in Henisara's blood.
+The tattoo was enchanted, enabling Luth to be able to see souls trapped within the Unity Stone, reliving the moment of their deaths
+in the mountain every night, giving Luth insights as to the curse of the mountain and the events of 50 years ago. In return, however, Luth unknowingly came under the dominion and control of Harolda and the Silver Flame's blood magic.
+Harolda initially intended to use the tattoo to command and sacrifice Luth, but turned against the idea when she saw in Luth a new, powerful crusader convert for the Silver Flame. **Neutral Deed**
 > *"You have the four vials of blood... to receive the blessing of the soul who bled, would enable you to see visions from the past, images flickering on the mortal plane. Your blades, even, would cut through realms, striking the departed as if they stood right next to you. All that you would need ... would be a tattoo of blood."* (Session 38)
 
-- While rowing on the Akanamere Marsh, Luth received a dispelled a false illusionary vision of Feroi, the elf, and achieved a boon to his faith and his Wisdom. **Good Deed**
+- While rowing on the Akanamere Marsh, Luth received a dispelled a false, illusionary vision of Feroi, the elf, and achieved a boon to his faith and his Wisdom. **Good Deed**
 > *"On the surface of the water, a young elf rows towards your boat, with bulky, hand-made leather armor and two floating swords on their back. Rowing beside you, they speak in a hiss: "Seeker Luth... why did you fail us? They were slaughtered - each and every one. Hunted like game in the forest. Why did you leave them to their fate to preserve the deal with the Eldreth Veluuthra?"* (Session 43)
 
-- By Session 15, Henisara Mistifine was pushed over the edge by the leadership of the Gate of the Reach encampment, and began to conspire to use the four adventurers as pawns, Luth was instrumental to her changing her mind. She saw potential in the boy and truly believed that he wanted to know about the Silver Flame. Luth was instrumental in 
-prioritizing building the Church building at Yargongone, thus fulfilling Harolda's quest and turning her to their side.
+- By Session 15, when Henisara Mistifine was pushed over the edge by the leadership of the Gate of the Reach adventurers, and began to conspire to use the party of four as pawns, Luth was instrumental to her changing her mind. She saw potential in the boy and truly believed that he wanted to know about the Silver Flame. Luth ensured that 
+ the Church building was constructed at Yargongone, thus fulfilling Harolda's quest and turning her to their side. **Good Deed**
 
-- Luth paid 100 gold to Gretchen to send a message to Briff: "It's Luth, Are You Well? Would Like To See You." One of Gretchen's crows returned a bloodied scrap of yellow robe.
+- Luth paid 100 gold to Gretchen to send a message to Briff: "It's Luth, Are You Well? Would Like To See You." One of Gretchen's crows returned a bloodied scrap of yellow robe. Briff was deceased. **Neutral Deed**
 
 - Luth said a prayer for the spirits of the deceased within the Gate of the Reach Stronghold room, where the riled spirits would eventually become a maelstorm of malice. **Good Deed**
 
 - Luth felt some curiousity about Aeron Morieth early in the adventure.
 > *"A half-elf man sits at a desk covered in papers and quills, scribbling away at a piece of parchment. His brow is furrowed, and he appears completely out of space and time. As you watch, he raises his hand without a glance and traces a run in the air. The symbol shines brightly before disappearing."* (Session 55)
 
-- Luth blissfully released Henisara's vengeful spirit with the rest of his party, freeing her from her eternal tormernt. As one last favor for being so mercifully released ,Henisara allowed Luth with one wish: "I wish to see my family again." Fineghal Stormwalker answered this wish with a message: **Good Deed**
+- Luth blissfully released Henisara's vengeful spirit with the rest of his party, freeing her from her eternal tormernt. As one last favor for being so mercifully released, Henisara allowed Luth with one wish: "I wish to see my family again." Fineghal Stormwalker answered this wish with a message: **Good Deed**
 > *"Your fate is intertwined with Feroi. Find them when this is all over, and they will be able to help you to your family again. Travel to the city of Cimbar."* (Session 70)
 
 #### Act 3
 
-- Imbued with a tattoo, sleeping at night in Yargongone, Luth alone was able to hear the sounds of screams and wails coming from the inside of the Gate of the Reach. **Neutral Deed**
+- Imbued with a tattoo and sleeping at night in Yargongone, Luth alone was able to hear the sounds of screams and wails coming from the inside of the Gate of the Reach.
 
-- Luth was one of the key contributers in deciding that it was best not to confront the dracolich Akulu the vile head on. As the curse of the mountain took hold, Luth and his party became more afflicted by horrible visions than ever.
+- Luth was one of the key contributers in deciding that it was best not to confront the dracolich Akulu the vile head on. As the curse of the mountain took hold, Luth and his party became more afflicted by horrible visions than ever. **Neutral Deed**
 > *"As you step through the Gate of the Reach, you find yourselves surrounded by ghouls in a large circle. One ghoul in particular, with long limbs and albino white skin, looks at you hungrily from a pack of gaunt, drooling, and dripping ghouls with red blood dripping from fangs and claws. It howls, and says "Out of the way! Give them some space!" (Session 70)
 
 - Luth discovered that his muscles were being shrunk from within by the Necromancer's curse, and the increased strength he felt every time he left the mountain was a ruse.
