@@ -7,7 +7,7 @@ date = 2024-07-18T14:11:36-04:00
 
 ## Introduction
 
-In the year 1400, **Narrinesh**, a Dragonborn Rogueish-Monk of the Astral Self, was one of four heroes of legend (with [Nirvana Knives](https://gotr2024.netlify.app/posts/nirvana-knives/), [Stuu the Dwarf](https://gotr2024.netlify.app/posts/stuu-the-dwarf/), and Luth Amastacia) to foil the Necromancer's plans in the Gate of the Reach Fortress under the mountain. 
+In the year 1400, **Narrinesh**, a Dragonborn Rogueish-Monk of the Astral Self, was one of four heroes of legend (with [Nirvana Knives](https://gotr2024.netlify.app/posts/nirvana-knives/), [Stuu the Dwarf](https://gotr2024.netlify.app/posts/stuu-the-dwarf/), and [Luth Amastacia](https://gotr2024.netlify.app/posts/luth-amastacia/)) to foil the Necromancer's plans in the Gate of the Reach Fortress under the mountain. 
 A deadly martial artist whose relaxed demeanor concealed a great ability to dominate his opponents in a flurry of deadly fists, Narrinesh remained stoic and placid despite the many terrors that the mountain wrought
 upon him and his party. Narrinesh was a sworn vegetarian.
 
@@ -43,7 +43,7 @@ Narrinesh spat vile acid directly across Holden's face, melting half of the skin
 - Made a target by the simple fact of his black dragon lineage, Narrinesh successfully resisted possession by the Necromancer, Aeron Morieth, who attempted to kidnap him and make him run into the forest.
 > *"Deep within the forest, something changes. A front of air, a mass of pressure, something born aloft above the leaves, flies like a missile towards the Vilhon Reach Encampment. It is an invisible force, shifting leaves, cutting through branches, and it spirals directly towards Narrinesh."* (Session 26)
 
-- Narrinesh proclaimed himself "The Good" when challenged by Feroi, the Elven Warrior. **Neutral Deed** (Session 37)
+- Narrinesh proclaimed himself "The Good" when challenged by Feroi, the Elven Warrior. **Neutral Deed** 
 
 - At the grizzly feast of the elvish terrorist group the Eldreth Veluuthra, where the main course of the meal was man flesh and Nirvana Knives made an evil deal to secure Arrabarean reinforcements in exchange for the lives of Brith and magic-wielding refugees from the Purge of Ire, Narrinesh was found crying.  (Session 37)
 
@@ -81,15 +81,21 @@ Narrinesh spat vile acid directly across Holden's face, melting half of the skin
 - Narrinesh discovered that his muscles were being shrunk from within by the Necromancer's curse, and the increased strength he felt every time he left the mountain was a ruse.
 When the fungal colony beneath the marsh offered to heal the muscles, Narrinesh took the potion, electing to restore the decaying muscles inside his body instead of taking on unnatural fungal strength that would have restored some of the deceptive power the necromancy magic granted. **Neutral Deed**
 
-- Narrinesh, along with the party of four, defeated the Necromancer within his foul cathedral inside the Corrupted Unity Stone. 
- Narrinesh and his compatriots saw how Nirvana Knives was tempted to take the power of the Corrupted Unity Stone for herself
+- Narrinesh, as a member of the party of four, defeated the Necromancer within his foul cathedral inside the Corrupted Unity Stone. 
+ Narrinesh and his companions saw how Nirvana Knives was tempted to take the power of the Corrupted Unity Stone for herself
  and gain all the power that Aeron Morieth had as the Necromancer. In exchange for controlling the stone and preventing it from
  falling into the wrong hands, she would sacrifice herself, becoming corrupted and evil from that point forward. Narrinesh played an instrumental role in convincing
  Nirvana Knives not to take this path, and instead disconnect the Corrupted Unity Stone from the Torch of the Reach. Later then, the adventurers
  could find a way to remove the hundreds of thousands of souls from the stone. The Party of Four successfully ended the enchantment,
- stealing the Corrupted Unity Stone, the Necromancer's critical source of power, from the Necromancer. Unfortunately, the players now had to
+ stealing the Corrupted Unity Stone, the Necromancer's critical source of power, from the Necromancer. Unfortunately, the adventurers now had to
  find a way to remove the souls from the stone... and Aeron Morieth would never rest, would send all of his servants, assassins, and monsters
  out into the world, until he regained control of the stone for himself once again. **Heroic Deed**
+ 
+ **Heroic Deeds:**  3 (17%)
+ **Good Deeds:**    4 (24%)
+ **Neutral Deeds:** 8 (48%)
+ **Evil Deeds:**    2 (11%)
+*Narrinesh was Chaotic Neutral during the playthrough! His given alignment is Chaotic Good.*
 
 ## Aftermath
 
@@ -118,4 +124,4 @@ set out with a pack on his back to climb one more mountain, ride one more ziplin
 ...
 ## **TO BE CONTINUED**
 
-[Click here to visit the main page!](https://gotr2024.netlify.app)
+([Click here to visit the main page!](https://gotr2024.netlify.app))

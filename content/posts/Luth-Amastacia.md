@@ -10,7 +10,7 @@ date = 2024-07-18T14:11:23-04:00
 In the year 1400, **Luth Amastacia**, a Half-Elf Warlock bound to a flaming Aspect of Corellon, was one of the four heroes of legend 
 (with [Narrinesh](https://gotr2024.netlify.app/posts/narrinesh-the-monk/), [Stuu the Dwarf](https://gotr2024.netlify.app/posts/stuu-the-dwarf/), and [Nirvana Knives](https://gotr2024.netlify.app/posts/nirvana-knives/))
 who foiled the Necromancer's plans in the Gate of the Reach fortress under the mountain. A spellcaster adept with a blade, Luth's small stature belied his 
-tremendous courage, curiousity, and bravery in the face of grave danger. Evildoers who made the mistake of underestimating this 12-year old boy soon learned the 
+tremendous courage, curiousity, and bravery in the face of grave danger. Evildoers who made the mistake of underestimating this 12-year old boy quickly learned the 
 folly of their ways.
 
 #### Appearance
