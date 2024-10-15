@@ -29,7 +29,7 @@ to smite unholy and undead alike. With a simple word and a glance, golden bolts 
 ## Deeds
 
 #### Act 1
-- Using the small amount of information that his patron gave him, and a map projected onto his golden amulet, Luth led the adventuring party through the memory of the Fall of Ythenia and met his newest adventuring companions. **Good Deed**
+- Using the small amount of information that his patron gave him, and a map projected onto his golden amulet, Luth led the adventuring party through the memory of the Fall of Ythenia where he met his newest adventuring companions. **Good Deed**
 > *"Spells fly across the plaza: fireballs, great tracing arcs of lightning and spirling purple missiles, many of them flying from the roofs and windows of the buildings surrounding the plaza. The sound of tramping feet, shouting, and crying resounds underneath what sounds like thunder claps, and an everpresent BOOM that repeats again and again as massive flaming projectiles impact the shield surrounding the city."* (Session 19)
 
 - Atop the Vilhon Reach mountains in a small warm cabin, when all of his companions had fallen fast asleep due to the deep sleep of the perilous Merulian Tea, Luth was able to resist the effects and warn his new friends of impending danger of Rye Harrigan. **Good Deed**
@@ -40,7 +40,7 @@ to smite unholy and undead alike. With a simple word and a glance, golden bolts 
 - Tapping into his magical abilities, Luth solved the Elvish puzzle box containing the Blood Orange Gem, discovering his natural talent to untangle complicated magical enchantments and unlocking a gift for studying abstract arcane topics.
 Luth would make a fine wizard's apprentice! **Heroic Deed**
 
-- At the grizzly feast of the elvish terrorist group the Eldreth Veluuthra, Luth found himself in a living nightmare. Even though he was the only one in the party who could speak Elvish, he was at the mercy of Nirvana Knives who dictated the negotiations of the party with Tellia. Knives chose not to fight for Briff but to leave them to the elves in exchange for Arrabarean reinforcements. Luth felt powerless as he listened to the elves around them talk about the spellcasters like they were no higher than dirt, mistakes in nature's creation. **Neutral Deed**
+- At the grizzly feast of the elvish terrorist group the Eldreth Veluuthra, Luth found himself in a living nightmare. Even though he was the only one in the party who could speak Elvish, he was at the mercy of Nirvana Knives who dictated the negotiations of the party with Tellia. Knives chose not to fight for Briff but instead to leave him to the elves in exchange for Arrabarean reinforcements. Luth felt powerless as he listened to the elves around them talk about the spellcasters like they were no higher than dirt, mistakes in nature's creation. **Neutral Deed**
 > *"As the elves begin to herd the spellcasters down the length of the table, jeers and insults are thrown at them. Up and over the magical containment barrier, pieces of raw meat from the feast are thrown at the beaten and bloodied Briff and the spellcasters in a twisted game."* (Session 37)
 
 
@@ -68,24 +68,25 @@ Harolda initially intended to use the tattoo to command and sacrifice Luth, but 
 - Luth said a prayer for the spirits of the deceased within the Gate of the Reach Stronghold room, where the riled spirits would eventually become a maelstorm of malice. **Good Deed**
 
 - Luth felt some curiousity about Aeron Morieth early in the adventure.
-> *"A half-elf man sits at a desk covered in papers and quills, scribbling away at a piece of parchment. His brow is furrowed, and he appears completely out of space and time. As you watch, he raises his hand without a glance and traces a run in the air. The symbol shines brightly before disappearing."* (Session 55)
+> *"A half-elf man sits at a desk covered in papers and quills, scribbling away at a piece of parchment. His brow is furrowed, and he appears completely out of space and time. As you watch, he raises his hand without a glance and traces a spell rune in the air. The symbol shines brightly before fading, and he takes furious notes."* (Session 55)
 
-- Luth blissfully released Henisara's vengeful spirit with the rest of his party, freeing her from her eternal tormernt. As one last favor for being so mercifully released, Henisara allowed Luth with one wish: "I wish to see my family again." Fineghal Stormwalker answered this wish with a message: **Good Deed**
+- Luth blissfully released Henisara's vengeful spirit with the rest of his party, freeing her from her eternal tormernt and receiving her blessing to use her blood. As one last favor for being so mercifully released, Henisara allowed Luth with one wish: "I wish to see my family again." Fineghal Stormwalker answered this wish with a message: **Good Deed**
 > *"Your fate is intertwined with Feroi. Find them when this is all over, and they will be able to help you to your family again. Travel to the city of Cimbar."* (Session 70)
 
 #### Act 3
 
-- Imbued with a tattoo and sleeping at night in Yargongone, Luth alone was able to hear the sounds of screams and wails coming from the inside of the Gate of the Reach.
+- The only one imbued with a tattoo, during the night in Yargongone, Luth alone was able to hear the sounds of screams and wails coming from the inside of the Gate of the Reach mountain fortress.
 
-- Luth was one of the key contributers in deciding that it was best not to confront the dracolich Akulu the vile head on. As the curse of the mountain took hold, Luth and his party became more afflicted by horrible visions than ever. **Neutral Deed**
-> *"As you step through the Gate of the Reach, you find yourselves surrounded by ghouls in a large circle. One ghoul in particular, with long limbs and albino white skin, looks at you hungrily from a pack of gaunt, drooling, and dripping ghouls with red blood dripping from fangs and claws. It howls, and says "Out of the way! Give them some space!" (Session 70)
+- Luth was one of the key contributers in deciding that it was best not to confront the dracolich Akulu the Vile head on. As the curse of the mountain took hold, Luth and his party became more afflicted by horrible visions than ever. **Neutral Deed**
+> *"As you step through the Gate of the Reach, you find yourselves surrounded by ghouls in a large circle. One ghoul in particular, with long limbs and albino white skin, looks at you hungrily from a pack of gaunt, drooling, and dripping ghouls with red blood dripping from fangs and claws. It howls, and says "Out of the way! Give them some space!"* (Session 70)
 
 - Luth discovered that his muscles were being shrunk from within by the Necromancer's curse, and the increased strength he felt every time he left the mountain was a ruse.
 When the fungal colony beneath the marsh offered to heal the muscles, Luth took the potion, electing to restore the decaying muscles inside his body instead of taking on unnatural fungal strength that would have restored some of the deceptive power the necromancy magic granted. **Neutral Deed**
 
--  Luth needed to unlock and disable the Corrupted Unity Stone's inner mechanisms, so called upon his patron to do so. In exchange for his Patron's help, his Patron purged Luth
-of all of his commitment to the Church of the Silver Flame: Luth's body caught on fire as his tattoos were incinerated, and the Book of the Silver Flame reduced to ashes in a manner
-of seconds. Black scars are all that remain of the tattoos once etched in blood beneath Luth's skin. **Neutral Deed** 
+-  At the mammoth bones of the skeleton of Akulu the Vile, dripping with a river of liquid souls, Luth went head to head with the Corrupted Unity Stone. This was an enchantment which would challenge the most adept of wizarding academics in all the land, laced as it was with traps, complexities, and the best enchanting weave that the wizards Ythenia had to offer. 
+While his friends protected him against illusionary shadow people and began to fade into green shadows themselves, Luth called upon his patron to quickly to unlock and disable the Corrupted Unity Stone's inner mechanisms. In exchange for help in his time of dire need, his Patron purged Luth
+of all of his commitment to the Church of the Silver Flame: Luth's body caught on fire as his tattoo was incinerated, and the Book of the Silver Flame reduced to ashes in a manner
+of seconds. Black scars are all that remain of the tattoo once etched in blood beneath Luth's skin. **Heroic Deed** 
 
 - Luth, as a member of the party of four, defeated the Necromancer within his foul cathedral inside the Corrupted Unity Stone. Luth and his
 companions saw how Nirvana Knives was tempted to take the power of the Corrupted Unity Stone for herself and gain all of the power that Aeron
@@ -100,11 +101,11 @@ the Necromancer's critical source of power, from the Necromancer. Unfortunately,
 - By fulfilling the task that his Patron set out for him, to rid the Akanamere marsh of the undead menace, Luth fulfilled an extremely important bargain. Luth has proven himself
 as a capable instrument of the light to his Patron, and will receive limitless power as the bond with the Aspect of Corellon becomes stronger and stronger. With great trust built
 in this relationship, Luth will wield the power of the light with brilliant and blinding strength. **Heroic Deed**
-> *"Deep in your soul, you feel more than hear the satisfaction of your patron rumbling deep inside you like a great lion: "You have done well..."
+> *"Deep in your soul, you feel more than hear the satisfaction of your patron rumbling deep inside you like a great lion: "You have done well..."*
 
-- **Heroic Deeds:**  3 (19%)
-- **Good Deeds:**    6 (38%)
-- **Neutral Deeds:** 7 (43%)
+- **Heroic Deeds:**  4 (24%)
+- **Good Deeds:**    6 (35%)
+- **Neutral Deeds:** 7 (41%)
 - **Evil Deeds:**    0
 > *Luth was Lawful Good during this playthrough! His given alignment is Chaotic Good.*
 
@@ -124,18 +125,15 @@ in this relationship, Luth will wield the power of the light with brilliant and 
 
 7) The Holy Kingdom of Arrabar would rule for many years to come.
 
-From being thrust upon a strange quest, to the dramatic conclusion of the Gate of the Reach, Luth had gone from inexperience and mistrust
-to being the sole bearer, the sole hope, of the disenchantment of the Corrupted Unity Stone to release the hundreds of thousands of souls captured within. 
-It was a large burden indeed, and no other child would ever relate to. Yet, despite red and black dragons, necromancers, great wizards, and fields of undead, Luth was 
-optimistically, unchangably just a kid. Nothing would change that. Striding on his solitary path on the dirt road heading north out of Yargongone for the last time, disguised with a hood cast over his head,
-Luth felt a slight spring in his step. Despite the fact he had never felt so far from friends and kin, he did not feel alone. As the warm, white light of his patron sheathed his figure and cast him 
-magically far across the land Luth smiled. He knew that if he but reached out, if he called on his new friends, they would be there to help him on this final leg of the quest. As Luth stood
-in the center of Cimbar, the Corrupted Unity Stone concealed carefully beneath his robe, he felt more ready than ever to find Tzchazzar, find Feroi, and find his family for once
-and for good.
-
-...
-...
-...
+From being thrust upon strangers in a strange land to complete an impossible quest, to the dramatic conclusion of the Gate of the Reach under the mountain, Luth had gone from inexperience to being the sole bearer,
+the sole hope, of the disenchantment of the Corrupted Unity Stone. It now fell upon him to release the hundreds of thousands of souls captured inside the enchantment. It was a large burden indeed,
+one that no other child his age would ever be able to understand. Yet, despite it all, despite red and black dragons, necromancers and magic wizards, swarms of undead rambling through cursed woods,
+Luth was incredibly, almost miraculously, still a kid. Nothing would ever change that. On his solitary road on the dirt parth heading north out of Yargongone for the last time with Nirvana Knives, disguised
+with a hood pulled over his head, despite the heavy burden he carried, Luth felt a slight spring in his step. He had never felt so far from home, yet he did not feel alone. He knew that if he but called out, if he 
+reached out his hand, his friends would be there to help him on the final leg of his quest to dispell the darkness inside the stone.
+The night was near by the time that the warm, white light of his patron cast his figure all aflame and flew him magically far across the land, and Luth smiled. Standing now in the busy, bustling center of the city of Cimbar, the Corrupted Unity Stone concealed carefully beneath 
+his robe, Luth felt more ready than ever to find the returned red dragon Tzchazzar, to find Feroi, and eventually to find his family for once and for good. 
+He just needed to take one step forward, into that bustling market square, and that exactly is what he intended to do.
 
 ## **TO BE CONTINUED**
 
